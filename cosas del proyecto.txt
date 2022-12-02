@@ -1,0 +1,26 @@
+ICONO QUE VA JUNTO AL NOMBRE
+
+<i class="bi bi-buildings"></i>
+
+ICONO BARRA MENÚ EN RESTO PÁGINAS
+
+<div>
+        <i class="bi bi-buildings"></i>
+        <h2>Tanjiro Studios</h2>
+        <h3>Estudio de animación 2D, 3D y VFX</h3>
+    </div>
+
+
+Paseo de las Acacias 17 (Semisótano)28023 Madrid (Spain)
+                Email: contacto@animalstudios.es
+                Phone: +34 918 067 940
+                Instagram: @animalstudios
+
+class="align-items-center"
+
+<input class="form-control form-control-xxl" type="text" placeholder="Máximo 300 carácteres" aria-label=".form-control-xxl example">
+
+<a href="http://127.0.0.1:5500/indexmp1.html" target="_blank" rel="noopener noreferrer">Inicio</a>
+
+
+
